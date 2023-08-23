@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9C8C2B342A95DE6C003AB627 /* chartApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8C2B332A95DE6C003AB627 /* chartApp.swift */; };
-		9C8C2B362A95DE6C003AB627 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8C2B352A95DE6C003AB627 /* ContentView.swift */; };
+		9C8C2B362A95DE6C003AB627 /* StaticChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8C2B352A95DE6C003AB627 /* StaticChartView.swift */; };
 		9C8C2B382A95DE6D003AB627 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C8C2B372A95DE6D003AB627 /* Assets.xcassets */; };
 		9C8C2B3B2A95DE6D003AB627 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C8C2B3A2A95DE6D003AB627 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		9C8C2B302A95DE6C003AB627 /* chart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = chart.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C8C2B332A95DE6C003AB627 /* chartApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chartApp.swift; sourceTree = "<group>"; };
-		9C8C2B352A95DE6C003AB627 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		9C8C2B352A95DE6C003AB627 /* StaticChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StaticChartView.swift; sourceTree = "<group>"; };
 		9C8C2B372A95DE6D003AB627 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9C8C2B3A2A95DE6D003AB627 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				9C8C2B332A95DE6C003AB627 /* chartApp.swift */,
-				9C8C2B352A95DE6C003AB627 /* ContentView.swift */,
+				9C8C2B352A95DE6C003AB627 /* StaticChartView.swift */,
 				9C8C2B372A95DE6D003AB627 /* Assets.xcassets */,
 				9C8C2B392A95DE6D003AB627 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9C8C2B362A95DE6C003AB627 /* ContentView.swift in Sources */,
+				9C8C2B362A95DE6C003AB627 /* StaticChartView.swift in Sources */,
 				9C8C2B342A95DE6C003AB627 /* chartApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
